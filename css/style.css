@@ -172,9 +172,6 @@ section {
     margin-right: 24px; 
 }
 
-.info-box pix {
-    border-radius: 50%;
-}
 
 /* MILESTONE */
 #milestone {
@@ -376,4 +373,7 @@ footer .social-links a {
 .form-control:focus {
     box-shadow: none;
     border-color: #408bba;
+}
+.img-circle {
+    border-radius: 500px;
 }
